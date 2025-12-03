@@ -6,6 +6,8 @@ import img3 from './cghdfgh.jpg';
 function App() {
   return (
     <>
+
+    {/* test */}
       <div className='navbar'>
         <div className="img">
          <img src={img3}/>
